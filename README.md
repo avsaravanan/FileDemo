@@ -12,7 +12,7 @@
   
   REST Service Controller: 
   FileController - 
-  Executes incoming request and defines URL to service method mappings. All remote call are delegated to the archive service.
+  Executes incoming request and defines URL to service method mappings. 
   
   Data access object:
   Interface - FileUploadDAO
