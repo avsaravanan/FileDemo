@@ -4,7 +4,7 @@
   Upload a file:
   
   /rest/upload?file={file} POST
-  
+  file: A file posted in a multipart request
   
   List all uploaded files:
   
